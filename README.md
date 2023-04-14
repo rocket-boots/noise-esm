@@ -1,5 +1,5 @@
 # Noise ESM
-***Perlin and Simplex Noise in JavaScript, ESM (Module) format**
+***Perlin and Simplex Noise in JavaScript, ESM (Module) format***
 
 ## Origins
 
