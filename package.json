@@ -1,0 +1,37 @@
+{
+  "name": "noise-esm",
+  "version": "1.0.0",
+  "description": "Perlin and simplex noise",
+  "main": "noise.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ./*.js"
+  },
+  "keywords": [
+    "noise",
+    "perlin",
+    "simplex",
+    "js",
+    "javscript",
+    "ecmascript",
+    "module",
+    "esm"
+  ],
+  "author": "Stefan Gustavson",
+  "contributors": [
+    {
+      "name": "Peter Eastman"
+    },
+    {
+      "name": "Joseph Gentle"
+    },
+    {
+      "name": "Luke Nickerson"
+    }
+  ],
+  "license": "Unlicense",
+  "devDependencies": {
+    "rocket-boots-eslint": "github:rocket-boots/rocket-boots-eslint"
+  }
+}
